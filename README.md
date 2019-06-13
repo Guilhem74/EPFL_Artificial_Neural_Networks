@@ -1,6 +1,9 @@
 # EPFL_Artificial_Neural_Networks
 [EPFL] Artificial Neural Networks
 
+Developped by Guilhem AZZANO and Pierre ERBACHER
+
+
 Two projects done for the lecture CS-456 at EPFL
 
 http://edu.epfl.ch/coursebook/en/artificial-neural-networks-CS-456
